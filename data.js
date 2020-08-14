@@ -69,6 +69,13 @@ let data = {
             "image": "https://cdn1.ozone.ru/s3/multimedia-y/wc1200/6018351430.jpg"
         },
         {
+            "name": 'Настольная игра «Покорение Марса»',
+            "price": 4000,
+            "tags": ["настолки"],
+            "url": "https://hobbygames.ru/pokorenie-marsa",
+            "image": "https://hobbygames.cdnvideo.ru/image/cache/hobbygames_beta/data/Lavka_Games/Pokorenie_Marsa/Proekt_Venera/Pokorenie_Marsa-1024x1024-wm.jpg"
+        },
+        {
             "name": "Футболка Hollow Knight: Troupe Master",
             "price": 24,
             "currency": "$",
