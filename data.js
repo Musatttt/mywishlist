@@ -38,11 +38,11 @@ let data = {
             "image": "https://cdn.shopify.com/s/files/1/0013/8539/8385/products/happy-programmers-day_960x.png?v=1537068351",
         },
         {
-            "name": "Гарнитура PlayStation Platinum",
-            "price": 9100,
+            "name": "Гарнитура PlayStation PULSE 3D",
+            "price": 8300,
             "tags": ["гейминг"],
-            "url": "https://www.ozon.ru/context/detail/id/138118554/",
-            "image": "https://cdn1.ozone.ru/multimedia/wc1200/1015727002.jpg"
+            "url": "https://store.sony.ru/product/besprovodnaya-garnitura-pulse-3d-317403/",
+            "image": "https://store.sony.ru/common/img/catalogue/317403/700x500_01-11-big.png"
         },
         {
             "name": "Комикс Preacher (Hardcover) Book Four и последующие",
