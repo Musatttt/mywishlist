@@ -38,6 +38,13 @@ let data = {
             "image": "https://cdn.shopify.com/s/files/1/0013/8539/8385/products/happy-programmers-day_960x.png?v=1537068351",
         },
         {
+            "name": "Комикс-игра 'Похищение'",
+            "price": 800,
+            "tags": ["комиксы"],
+            "url": "https://hobbygames.ru/komiks-igra-pohishhenie",
+            "image": "https://hobbygames.cdnvideo.ru/image/cache/hobbygames_beta/data/HobbyWorld/Komiks_igra_pohishenije/Pohichenie-1024x1024-wm.jpg"
+        },
+        {
             "name": "Гарнитура PlayStation PULSE 3D",
             "price": 8300,
             "tags": ["гейминг"],
