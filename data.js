@@ -16,6 +16,13 @@ let data = {
             "multi": 1,
         },
         {
+            "name": "Настольная игра 'Немезида'",
+            "price": 12000,
+            "tags": ["настолки"],
+            "url": "https://hobbygames.ru/nemezida",
+            "image": "https://hobbygames.cdnvideo.ru/image/cache/hobbygames_beta/data/HobbyWorld/Nemesis/HG/Nemesis_01-1024x1024-wm.jpg",
+        },
+        {
             "name": "Техносвященники. Том первый",
             "price": 1400,
             "tags": ["комиксы"],
