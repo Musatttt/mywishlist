@@ -59,6 +59,13 @@ let data = {
             "image": "https://store.sony.ru/common/img/catalogue/317403/700x500_01-11-big.png"
         },
         {
+            "name": "Lego Batwing (76161)",
+            "price": 19000,
+            "tags": ["lego"],
+            "url": "https://mir-kubikov.ru/lego/76161/",
+            "image": "https://static.mir-kubikov.ru/upload/resize_cache/iblock/551/746_580_140cd750bba9870f18aada2478b24840a/551158b8c1a2e0c0787a9f5c25dd9936.jpg"
+        },
+        {
             "name": "Комикс Preacher (Hardcover) Book Four и последующие",
             "price": 27,
             "currency": "$",
