@@ -59,13 +59,6 @@ let data = {
             "image": "https://store.sony.ru/common/img/catalogue/317403/700x500_01-11-big.png"
         },
         {
-            "name": "Lego Batwing (76161)",
-            "price": 19000,
-            "tags": ["lego"],
-            "url": "https://mir-kubikov.ru/lego/76161/",
-            "image": "https://static.mir-kubikov.ru/upload/resize_cache/iblock/551/746_580_140cd750bba9870f18aada2478b24840a/551158b8c1a2e0c0787a9f5c25dd9936.jpg"
-        },
-        {
             "name": "Комикс Preacher (Hardcover) Book Four и последующие",
             "price": 27,
             "currency": "$",
@@ -157,6 +150,20 @@ let data = {
             "image": "https://img4.labirint.ru/rc/26b26169431ffbede6116ca6056ad601/220x340/books73/720524/cover.jpg?1570520268"
         },
         {
+            "name": "Дарт Вейдер. Тёмный повелитель ситхов (Чарльз Соул)",
+            "price": 2050,
+            "tags": ["комиксы"],
+            "url": "https://www.chookandgeek.ru/product/dart-veyder-tyomnyy-povelitel-sithov",
+            "image": "https://static-sl.insales.ru/images/products/1/5169/382735409/large_1.jpg"
+        },
+        {
+            "name": "Звёздные Войны. Дарт Вейдер. Полное издание (Кирон Гиллен)",
+            "price": 1750,
+            "tags": ["комиксы"],
+            "url": "https://www.respublica.ru/knigi/hudozhestvennaya-literatura/komiksy-i-manga/515545-gillen-k-zvyozdnye-voyny-dart-veyder-polnoe-izdanie-zvezdnye-voyny-dart-veyder-t-o",
+            "image": "https://www.respublica.ru/uploads/01/00/00/c3/4l/large_851bd1a5a53f2750.jpg"
+        },
+        {
             "name": "DOOM Slayer Tubbz Collectible Duck",
             "price": 13,
             "currency": "£",
@@ -195,7 +202,13 @@ let data = {
             "url": "https://winestyle.ru/products/Oban-malt-14-years-old-with-box.html",
             "image": "https://skygarden.azureedge.net/media/images/products/2019/02/product_image_66b99a62-658d-4018-a8ea-998a174b0231.jpg"
         },
-
+        {
+            "name": "Lego Batwing (76161)",
+            "price": 19000,
+            "tags": ["lego"],
+            "url": "https://mir-kubikov.ru/lego/76161/",
+            "image": "https://static.mir-kubikov.ru/upload/resize_cache/iblock/551/746_580_140cd750bba9870f18aada2478b24840a/551158b8c1a2e0c0787a9f5c25dd9936.jpg"
+        },
         {
             "name": "Hollow Knight Pin",
             "price": 10,
