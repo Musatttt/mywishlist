@@ -2,7 +2,7 @@ let data = {
     "config": {
         "image_default": "https://s3.amazonaws.com/gt7sp-prod/decal/20/65/90/4684386837524906520_1.png",
         "currency_default": "руб",
-        //"description": "Для бронирования обращаться к <a href=\"tg://resolve?domain=FireKriS\">Крис</a>",
+        "description": "Для бронирования обращаться к <a href=\"tg://resolve?domain=FireKriS\">Крис</a>",
         "show_archived": 1,
     },
     "items": [
@@ -21,6 +21,13 @@ let data = {
             "tags": ["настолки"],
             "url": "https://hobbygames.ru/nemezida",
             "image": "https://hobbygames.cdnvideo.ru/image/cache/hobbygames_beta/data/HobbyWorld/Nemesis/HG/Nemesis_01-1024x1024-wm.jpg",
+        },
+        {
+            "name": "Dungeons & Dragons. Стартовый набор",
+            "price": 2500,
+            "tags": ["настолки"],
+            "url": "https://hobbygames.ru/dungeons-and-dragons-startovij-nabor",
+            "image": "https://hobbygames.cdnvideo.ru/image/cache/hobbygames_beta/data/HobbyWorld/DungeonsAndDragons/DnD_starter-set_box_3D-roznica-1024x1024-wm.jpg",
         },
         {
             "name": "Техносвященники. Том первый",
