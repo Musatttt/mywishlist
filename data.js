@@ -59,11 +59,11 @@ let data = {
             "image": "https://hobbygames.cdnvideo.ru/image/cache/hobbygames_beta/data/HobbyWorld/Komiks_igra_pohishenije/Pohichenie-1024x1024-wm.jpg"
         },
         {
-            "name": "Гарнитура PlayStation PULSE 3D",
-            "price": 8300,
+            "name": "Гарнитура PlayStation Platinum",
+            "price": 10000,
             "tags": ["гейминг"],
-            "url": "https://store.sony.ru/product/besprovodnaya-garnitura-pulse-3d-317403/",
-            "image": "https://store.sony.ru/common/img/catalogue/317403/700x500_01-11-big.png"
+            "url": "https://www.mvideo.ru/products/naushniki-dlya-ps4-playstation-4-platinum-wireless-headset-cechya-0090-40065821",
+            "image": "https://img.mvideo.ru/Pdb/40065821b.jpg"
         },
         {
             "name": "Комикс Preacher (Hardcover) Book Four и последующие",
