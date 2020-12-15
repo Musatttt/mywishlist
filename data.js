@@ -16,6 +16,13 @@ let data = {
             "multi": 1,
         },
         {
+            "name": "DOOM. Как в битвах с демонами закалялся новый жанр",
+            "price": 655,
+            "tags": ["книги"],
+            "url": "https://book24.ru/product/doom-kak-v-bitvakh-s-demonami-zakalyalsya-novyy-zhanr-5907841/",
+            "image": "https://cdn.book24.ru/v2/ITD000000001110467/COVER/cover3d1__w337.webp",
+        },
+        {
             "name": "Настольная игра 'Немезида'",
             "price": 12000,
             "tags": ["настолки"],
