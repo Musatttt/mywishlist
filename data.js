@@ -37,13 +37,6 @@ let data = {
             "image": "https://hobbygames.cdnvideo.ru/image/cache/hobbygames_beta/data/HobbyWorld/DungeonsAndDragons/DnD_starter-set_box_3D-roznica-1024x1024-wm.jpg",
         },
         {
-            "name": "Техносвященники. Том первый",
-            "price": 1400,
-            "tags": ["комиксы"],
-            "url": "https://www.labirint.ru/books/731757/",
-            "image": "https://img3.labirint.ru/rc/9ee30ed65a26f742e7dac59db4abeba3/220x340/books74/731757/cover.jpg?1577273210"
-        },
-        {
             "name": "Техносвященники. Том второй",
             "price": 1240,
             "tags": ["комиксы"],
@@ -293,6 +286,14 @@ let data = {
             "image": "https://cdn.shopify.com/s/files/1/0745/1299/products/travel-pack_1024x1024.jpg?v=1588217895",
             "tags": ["полезное"],
             "url": "https://www.bagandwallet.ru/collection/nomatic/product/nomatic_travel_pack_kupit",
+            "archived": 1,
+        },
+                {
+            "name": "Техносвященники. Том первый",
+            "price": 1400,
+            "tags": ["комиксы"],
+            "url": "https://www.labirint.ru/books/731757/",
+            "image": "https://img3.labirint.ru/rc/9ee30ed65a26f742e7dac59db4abeba3/220x340/books74/731757/cover.jpg?1577273210",
             "archived": 1,
         },
     ]
