@@ -59,13 +59,6 @@ let data = {
             "image": "https://hobbygames.cdnvideo.ru/image/cache/hobbygames_beta/data/HobbyWorld/Komiks_igra_pohishenije/Pohichenie-1024x1024-wm.jpg"
         },
         {
-            "name": "Гарнитура PlayStation Platinum",
-            "price": 10000,
-            "tags": ["гейминг"],
-            "url": "https://www.mvideo.ru/products/naushniki-dlya-ps4-playstation-4-platinum-wireless-headset-cechya-0090-40065821",
-            "image": "https://img.mvideo.ru/Pdb/40065821b.jpg"
-        },
-        {
             "name": "Комикс Preacher (Hardcover) Book Four и последующие",
             "price": 27,
             "currency": "$",
