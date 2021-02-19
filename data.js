@@ -35,7 +35,7 @@ let data = {
             "currency": "$",
             "tags": ["geek"],
             "url": "https://hacker.gifts/",
-            "image": "https://cdn.shopify.com/s/files/1/0013/8539/8385/products/happy-programmers-day_960x.png?v=1537068351",
+            "image": "https://cdn.shopify.com/s/files/1/0013/8539/8385/products/card_1_1024x1024.png",
         },
         {
             "name": "Комикс-игра 'Похищение'",
