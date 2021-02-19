@@ -16,13 +16,6 @@ let data = {
             "multi": 1,
         },
         {
-            "name": "DOOM. Как в битвах с демонами закалялся новый жанр",
-            "price": 655,
-            "tags": ["книги"],
-            "url": "https://book24.ru/product/doom-kak-v-bitvakh-s-demonami-zakalyalsya-novyy-zhanr-5907841/",
-            "image": "https://cdn.book24.ru/v2/ITD000000001110467/COVER/cover3d1__w337.webp",
-        },
-        {
             "name": "Настольная игра 'Немезида'",
             "price": 12000,
             "tags": ["настолки"],
@@ -35,13 +28,6 @@ let data = {
             "tags": ["настолки"],
             "url": "https://hobbygames.ru/dungeons-and-dragons-startovij-nabor",
             "image": "https://hobbygames.cdnvideo.ru/image/cache/hobbygames_beta/data/HobbyWorld/DungeonsAndDragons/DnD_starter-set_box_3D-roznica-1024x1024-wm.jpg",
-        },
-        {
-            "name": "Техносвященники. Том второй",
-            "price": 1240,
-            "tags": ["комиксы"],
-            "url": "https://www.labirint.ru/books/744320/",
-            "image": "https://img4.labirint.ru/rc/c1b5ccf2fc15a72a72349dcd767a0980/220x340/books75/744320/cover.jpg?1585200359",
         },
         {
             "name": "Hacker gift",
@@ -150,20 +136,6 @@ let data = {
             "image": "https://img4.labirint.ru/rc/26b26169431ffbede6116ca6056ad601/220x340/books73/720524/cover.jpg?1570520268"
         },
         {
-            "name": "Дарт Вейдер. Тёмный повелитель ситхов (Чарльз Соул)",
-            "price": 2050,
-            "tags": ["комиксы"],
-            "url": "https://www.chookandgeek.ru/product/dart-veyder-tyomnyy-povelitel-sithov",
-            "image": "https://static-sl.insales.ru/images/products/1/5169/382735409/large_1.jpg"
-        },
-        {
-            "name": "Звёздные Войны. Дарт Вейдер. Полное издание (Кирон Гиллен)",
-            "price": 1750,
-            "tags": ["комиксы"],
-            "url": "https://www.respublica.ru/knigi/hudozhestvennaya-literatura/komiksy-i-manga/515545-gillen-k-zvyozdnye-voyny-dart-veyder-polnoe-izdanie-zvezdnye-voyny-dart-veyder-t-o",
-            "image": "https://www.respublica.ru/uploads/01/00/00/c3/4l/large_851bd1a5a53f2750.jpg"
-        },
-        {
             "name": "DOOM Slayer Tubbz Collectible Duck",
             "price": 13,
             "currency": "£",
@@ -248,6 +220,38 @@ let data = {
             "url": "https://hairs-russia.ru/brendy/keune-niderlandy/1922-styling-stajling/keune-1922-styling-premier-paste---premer-pasta-75-ml",
             "image": "https://hairs-russia.ru/image/cache/350-438/data/Keune/keune-1922-styling-premier-paste-75-ml.jpeg",
             "multi": 1,
+        },
+        {
+            "name": "DOOM. Как в битвах с демонами закалялся новый жанр",
+            "price": 655,
+            "tags": ["книги"],
+            "url": "https://book24.ru/product/doom-kak-v-bitvakh-s-demonami-zakalyalsya-novyy-zhanr-5907841/",
+            "image": "https://cdn.book24.ru/v2/ITD000000001110467/COVER/cover3d1__w337.webp",
+            "archived": 1
+        },
+        {
+            "name": "Дарт Вейдер. Тёмный повелитель ситхов (Чарльз Соул)",
+            "price": 2050,
+            "tags": ["комиксы"],
+            "url": "https://www.chookandgeek.ru/product/dart-veyder-tyomnyy-povelitel-sithov",
+            "image": "https://static-sl.insales.ru/images/products/1/5169/382735409/large_1.jpg",
+            "archived": 1
+        },
+        {
+            "name": "Звёздные Войны. Дарт Вейдер. Полное издание (Кирон Гиллен)",
+            "price": 1750,
+            "tags": ["комиксы"],
+            "url": "https://www.respublica.ru/knigi/hudozhestvennaya-literatura/komiksy-i-manga/515545-gillen-k-zvyozdnye-voyny-dart-veyder-polnoe-izdanie-zvezdnye-voyny-dart-veyder-t-o",
+            "image": "https://www.respublica.ru/uploads/01/00/00/c3/4l/large_851bd1a5a53f2750.jpg",
+            "archived": 1
+        },
+           {
+            "name": "Техносвященники. Том второй",
+            "price": 1240,
+            "tags": ["комиксы"],
+            "url": "https://www.labirint.ru/books/744320/",
+            "image": "https://img4.labirint.ru/rc/c1b5ccf2fc15a72a72349dcd767a0980/220x340/books75/744320/cover.jpg?1585200359",
+            "archived": 1
         },
         {
             "name": "Apple iPad 2019 32GB Wi-Fi Space Gray",
