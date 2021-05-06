@@ -175,6 +175,13 @@ let data = {
             "image": "https://skygarden.azureedge.net/media/images/products/2019/02/product_image_66b99a62-658d-4018-a8ea-998a174b0231.jpg"
         },
         {
+            "name": "Lego R2-D2 (75308)",
+            "price": 19000,
+            "tags": ["lego"],
+            "url": "https://mir-kubikov.ru/lego/75308/",
+            "image": "https://static.mir-kubikov.ru/upload/resize_cache/iblock/e62/746_580_140cd750bba9870f18aada2478b24840a/e6257684e6a453030f0a2516be8e56c6.jpg"
+        },
+        {
             "name": "Lego Batwing (76161)",
             "price": 19000,
             "tags": ["lego"],
