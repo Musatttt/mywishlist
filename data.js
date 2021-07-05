@@ -60,13 +60,6 @@ let data = {
             "image": "https://img.mvideo.ru/Pdb/40070863b.jpg"
         },
         {
-            "name": "Трансметрополитен. Книга 1",
-            "price": 900,
-            "tags": ["комиксы"],
-            "url": "https://www.ozon.ru/context/detail/id/178094824",
-            "image": "https://cdn1.ozone.ru/s3/multimedia-y/wc1200/6018351430.jpg"
-        },
-        {
             "name": 'Настольная игра «Покорение Марса»',
             "price": 4000,
             "tags": ["настолки"],
@@ -81,15 +74,6 @@ let data = {
             "tags": ["футболки"],
             "url": "https://www.fangamer.com/collections/hollow-knight/products/grimm-hollow-knight-shirt",
             "image": "https://cdn.shopify.com/s/files/1/0014/1962/products/product_HK_troupe_master_shirt_photo1_1024x1024.png?v=1563036118",
-            "description": "Размер M",
-        },
-        {
-            "name": "Футболка Bloodborne: Blades of Mercy",
-            "price": 24,
-            "currency": "$",
-            "tags": ["футболки"],
-            "url": "https://www.fangamer.com/collections/bloodborne/products/bloodborne-blades-of-mercy-shirt",
-            "image": "https://cdn.shopify.com/s/files/1/0014/1962/products/product_bb_blades-of-mercy_shirt_photo1_1024x1024.png?v=1585065548",
             "description": "Размер M",
         },
         {
@@ -127,38 +111,6 @@ let data = {
             "url": "https://www.fangamer.com/collections/dead-cells/products/dead-cells-logo-shirt",
             "image": "https://cdn.shopify.com/s/files/1/0014/1962/products/product_DeadCells_TheIsland_shirt_photo1_1024x1024.png?v=1566606405",
             "description": "Размер M",
-        },
-        {
-            "name": "Провиденс",
-            "price": 2400,
-            "tags": ["комиксы"],
-            "url": "https://www.labirint.ru/books/720524/",
-            "image": "https://img4.labirint.ru/rc/26b26169431ffbede6116ca6056ad601/220x340/books73/720524/cover.jpg?1570520268"
-        },
-        {
-            "name": "DOOM Slayer Tubbz Collectible Duck",
-            "price": 13,
-            "currency": "£",
-            "tags": ["утки"],
-            "url": "https://www.geekstore.com/products/doom-slayer-tubbz-collectible-duck",
-            "image": "https://cdn.shopify.com/s/files/1/1375/9903/products/tubbz-doom-doom-slayer-gs-01_800x.progressive.jpg?v=1592333056"
-        },
-        {
-            "name": "Dark Souls: Heroes of Lordran - Solaire Figurine",
-            "price": 19,
-            "currency": "$",
-            "image": "https://cdn.shopify.com/s/files/1/0014/1962/products/product_DS_figs_solairemain1_1256583f-3db6-4c77-8f79-d6770a584471_1024x1024.png?v=1543344725",
-            "tags": ["фигурки"],
-            "url": "https://www.fangamer.com/collections/dark-souls/products/dark-souls-solaire-figurine",
-            "date": "2020-07-09"
-        },
-        {
-            "name": "Destiny Cayde-6 Tubbz Collectible Duck",
-            "price": 13,
-            "currency": "£",
-            "tags": ["утки"],
-            "url": "https://www.geekstore.com/products/destiny-cayde-6-tubbz-cosplaying-duck-collectible-figure",
-            "image": "https://cdn.shopify.com/s/files/1/1375/9903/products/destiny-cayde-6-gs-800x1000-01_800x.progressive.jpg?v=1592333102"
         },
         {
             "name": "The Legend of Zelda: Link's Awakening",
@@ -211,22 +163,6 @@ let data = {
             "tags": ["стикеры"],
             "url": "https://www.parazitakusok.ru/item/3705/",
             "date": "2020-07-08"
-        },
-        {
-            "name": "1922 BY J.M. Keune Essential Conditioner",
-            "price": 1750,
-            "tags": ["борода", "уход за собой"],
-            "url": "http://keune.store/product/keune-1922-universalnyy-konditsioner-dlya-volos-i-borody",
-            "image": "https://static-ru.insales.ru/images/products/1/7616/171867584/large_Keune_1922_%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BD%D0%B4%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%B5%D1%80_%D0%B4%D0%BB%D1%8F_%D0%B2%D0%BE%D0%BB%D0%BE%D1%81_%D0%B8_%D0%B1%D0%BE%D1%80%D0%BE%D0%B4%D1%8B_250.jpg",
-            "multi": 1,
-        },
-        {
-            "name": "1922 BY J.M. Keune Styling Premier Paste",
-            "price": 1700,
-            "tags": ["уход за собой"],
-            "url": "https://hairs-russia.ru/brendy/keune-niderlandy/1922-styling-stajling/keune-1922-styling-premier-paste---premer-pasta-75-ml",
-            "image": "https://hairs-russia.ru/image/cache/350-438/data/Keune/keune-1922-styling-premier-paste-75-ml.jpeg",
-            "multi": 1,
         },
         {
             "name": "DOOM. Как в битвах с демонами закалялся новый жанр",
