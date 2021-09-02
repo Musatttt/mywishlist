@@ -16,6 +16,13 @@ let data = {
             "multi": 1,
         },
         {
+            "name": "Наушники Sony WH-1000XM4",
+            "price": 30000,
+            "tags": ["техника"],
+            "url": "https://store.sony.ru/product/naushniki-sony-wh-1000xm4-317432/",
+            "image": "https://store.sony.ru/common/img/catalogue/317432/5d02da5df552836db894cead8a68f5f3-big.png",
+        },
+        {
             "name": "Настольная игра 'Немезида'",
             "price": 12000,
             "tags": ["настолки"],
