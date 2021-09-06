@@ -120,13 +120,6 @@ let data = {
             "description": "Размер M",
         },
         {
-            "name": "The Legend of Zelda: Link's Awakening",
-            "price": 3800,
-            "tags": ["игры", "switch"],
-            "url": "https://www.mvideo.ru/products/igra-nintendo-switch-the-legend-of-zelda-link-s-awakening-40071643",
-            "image": "https://img.mvideo.ru/Pdb/40071643b.jpg"
-        },
-        {
             "name": "Виски Oban malt 14 years old",
             "price": 6500,
             "tags": ["алкоголь"],
@@ -163,6 +156,14 @@ let data = {
             "tags": ["стикеры"],
             "url": "https://www.parazitakusok.ru/item/3705/",
             "date": "2020-07-08"
+        },
+        {
+            "name": "The Legend of Zelda: Link's Awakening",
+            "price": 3800,
+            "tags": ["игры", "switch"],
+            "url": "https://www.mvideo.ru/products/igra-nintendo-switch-the-legend-of-zelda-link-s-awakening-40071643",
+            "image": "https://img.mvideo.ru/Pdb/40071643b.jpg",
+            "archived": 1
         },
         {
             "name": "Lego R2-D2 (75308)",
