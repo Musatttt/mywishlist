@@ -23,6 +23,13 @@ let data = {
             "image": "https://store.sony.ru/common/img/catalogue/317432/5d02da5df552836db894cead8a68f5f3-big.png",
         },
         {
+            "name": "Дюна. Иллюстрированная история создания классики научной фантастики",
+            "price": 4500,
+            "tags": ["артбуки"],
+            "url": "https://eksmo.ru/book/dyuna-illyustrirovannaya-istoriya-sozdaniya-klassiki-nauchnoy-fantastiki-ITD1177428/",
+            "image": "https://cdn.eksmo.ru/v2/ITD000000001177428/COVER/cover1__w820.jpg",
+        },
+        {
             "name": "Настольная игра 'Немезида'",
             "price": 12000,
             "tags": ["настолки"],
