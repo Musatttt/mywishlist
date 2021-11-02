@@ -16,6 +16,13 @@ let data = {
             "multi": 1,
         },
         {
+            "name": "Настольная игра 'Покорение марса: Колонии'",
+            "price": 2150,
+            "tags": ["настолки"],
+            "url": "https://hobbygames.ru/pokorenie-marsa-kolonii",
+            "image": "https://hobbygames.cdnvideo.ru/image/cache/hobbygames_beta/data/Lavka_Games/Pokorenie_Marsa/Colonies/pokoreniemarsa-1024x1024-wm.jpg",
+        },
+        {
             "name": "Наушники Sony WH-1000XM4",
             "price": 30000,
             "tags": ["техника"],
