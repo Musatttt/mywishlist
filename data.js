@@ -23,6 +23,27 @@ let data = {
             "image": "https://hobbygames.cdnvideo.ru/image/cache/hobbygames_beta/data/Lavka_Games/Pokorenie_Marsa/Colonies/pokoreniemarsa-1024x1024-wm.jpg",
         },
         {
+            "name": "Настольная игра 'Покорение марса: Проект Венера'",
+            "price": 2000,
+            "tags": ["настолки"],
+            "url": "https://hobbygames.ru/pokorenie-marsa-proekt-venera",
+            "image": "https://hobbygames.cdnvideo.ru/image/cache/hobbygames_beta/data/Lavka_Games/Pokorenie_Marsa/Proekt_Venera/Pokorenie_Marsa_Proekt_Venera-1024x1024-wm.jpg",
+        },
+        {
+            "name": "Настольная игра 'Покорение марса: Кризис'",
+            "price": 2300,
+            "tags": ["настолки"],
+            "url": "https://hobbygames.ru/pokorenie-marsa-krizis",
+            "image": "https://hobbygames.cdnvideo.ru/image/cache/hobbygames_beta/data/Lavka_Games/Pokorenie_Marsa/Krizis/Pokorenie_Marsa_Krizis-1024x1024-wm.jpg",
+        },
+        {
+            "name": "Настольная игра 'Покорение марса: Эллада и Элизий'",
+            "price": 1250,
+            "tags": ["настолки"],
+            "url": "https://hobbygames.ru/pokorenie-marsa-jellada-i-jelizij",
+            "image": "https://hobbygames.cdnvideo.ru/image/cache/hobbygames_beta/data/Lavka_Games/Pokorenie_Marsa/Proekt_Venera/Pokorenie_Marsa_Ellada_i_Eliziy-1024x1024-wm.jpg",
+        },
+        {
             "name": "Наушники Sony WH-1000XM4",
             "price": 30000,
             "tags": ["техника"],
