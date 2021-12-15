@@ -16,6 +16,27 @@ let data = {
             "multi": 1,
         },
         {
+            "name": "Apple AirPods Pro",
+            "price": 25000,
+            "tags": ["техника"],
+            "url": "https://www.mvideo.ru/products/naushniki-apple-airpods-pro-with-magsafe-case-mlwk3ru-a-50165904",
+            "image": "https://img.mvideo.ru/Big/50165904bb.jpg",
+        },
+        {
+            "name": "Apple Watch Series 7",
+            "price": 40000,
+            "tags": ["техника"],
+            "url": "https://www.mvideo.ru/products/smart-chasy-apple-watch-series-7-gps-45mm-midnightal-midnight-sport-30059215",
+            "image": "https://img.mvideo.ru/Big/30059215bb.jpg",
+        },
+        {
+            "name": "Комикс 'Собакистан'",
+            "price": 700,
+            "tags": ["комиксы"],
+            "url": "https://www.chookandgeek.ru/product/sobakistan-tvyordyy-pereplyot",
+            "image": "https://static-sl.insales.ru/images/products/1/6085/434231237/large_1.jpg",
+        },
+        {
             "name": "Настольная игра 'Покорение марса: Колонии'",
             "price": 2150,
             "tags": ["настолки"],
@@ -81,14 +102,6 @@ let data = {
             "image": "https://img.mvideo.ru/Pdb/40070863b.jpg"
         },
         {
-            "name": 'Настольная игра «Покорение Марса»',
-            "price": 4000,
-            "tags": ["настолки"],
-            "url": "https://hobbygames.ru/pokorenie-marsa",
-            "image": "https://hobbygames.cdnvideo.ru/image/cache/hobbygames_beta/data/Lavka_Games/Pokorenie_Marsa/Proekt_Venera/Pokorenie_Marsa-1024x1024-wm.jpg",
-            "archived": 1,
-        },
-        {
             "name": "Футболка Hollow Knight: Troupe Master",
             "price": 24,
             "currency": "$",
@@ -148,6 +161,20 @@ let data = {
             "image": "https://static.mir-kubikov.ru/upload/resize_cache/iblock/551/746_580_140cd750bba9870f18aada2478b24840a/551158b8c1a2e0c0787a9f5c25dd9936.jpg"
         },
         {
+            "name": "Фигурка-утка Tubbz Зефирный человек",
+            "price": 1800,
+            "tags": ["утки"],
+            "url": "https://www.respublica.ru/detyam/igrushki-i-igry/figurki/588170-figurka-utka-tubbz-ohotniki-za-privideniyami-zefirnyy-chelovek",
+            "image": "https://www.respublica.ru/uploads/01/00/00/ew/9f/large_86fc5e3aca97d574.jpg"
+        },
+        {
+            "name": "Фигурка-утка Tubbz Гимли",
+            "price": 1800,
+            "tags": ["утки"],
+            "url": "https://www.respublica.ru/detyam/igrushki-i-igry/figurki/588151-figurka-utka-tubbz-vlastelin-kolets-gimli",
+            "image": "https://www.respublica.ru/uploads/01/00/00/ev/zj/large_7d4f1650425c1d35.jpg"
+        },
+        {
             "name": "Hollow Knight Pin",
             "price": 10,
             "currency": "$",
@@ -170,6 +197,14 @@ let data = {
             "tags": ["стикеры"],
             "url": "https://www.parazitakusok.ru/item/3705/",
             "date": "2020-07-08"
+        },
+        {
+            "name": 'Настольная игра «Покорение Марса»',
+            "price": 4000,
+            "tags": ["настолки"],
+            "url": "https://hobbygames.ru/pokorenie-marsa",
+            "image": "https://hobbygames.cdnvideo.ru/image/cache/hobbygames_beta/data/Lavka_Games/Pokorenie_Marsa/Proekt_Venera/Pokorenie_Marsa-1024x1024-wm.jpg",
+            "archived": 1,
         },
         {
             "name": "Настольная игра 'Покорение марса: Кризис'",
