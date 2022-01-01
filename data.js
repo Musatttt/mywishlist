@@ -95,13 +95,6 @@ let data = {
             "image": "https://cdn1.ozone.ru/multimedia/1010438854.jpg"
         },
         {
-            "name": "New Super Mario Bros U Deluxe",
-            "price": 3800,
-            "tags": ["игры", "switch"],
-            "url": "https://www.mvideo.ru/products/igra-nintendo-switch-new-super-mario-bros-u-deluxe-40070863",
-            "image": "https://img.mvideo.ru/Pdb/40070863b.jpg"
-        },
-        {
             "name": "Футболка Hollow Knight: Troupe Master",
             "price": 24,
             "currency": "$",
@@ -147,13 +140,6 @@ let data = {
             "description": "Размер M",
         },
         {
-            "name": "Виски Oban malt 14 years old",
-            "price": 6500,
-            "tags": ["алкоголь"],
-            "url": "https://winestyle.ru/products/Oban-malt-14-years-old-with-box.html",
-            "image": "https://skygarden.azureedge.net/media/images/products/2019/02/product_image_66b99a62-658d-4018-a8ea-998a174b0231.jpg"
-        },
-        {
             "name": "Lego Batwing (76161)",
             "price": 19000,
             "tags": ["lego"],
@@ -197,6 +183,22 @@ let data = {
             "tags": ["стикеры"],
             "url": "https://www.parazitakusok.ru/item/3705/",
             "date": "2020-07-08"
+        },
+        {
+            "name": "Виски Oban malt 14 years old",
+            "price": 6500,
+            "tags": ["алкоголь"],
+            "url": "https://winestyle.ru/products/Oban-malt-14-years-old-with-box.html",
+            "image": "https://skygarden.azureedge.net/media/images/products/2019/02/product_image_66b99a62-658d-4018-a8ea-998a174b0231.jpg",
+            "archived": 1,
+        },
+        {
+            "name": "New Super Mario Bros U Deluxe",
+            "price": 3800,
+            "tags": ["игры", "switch"],
+            "url": "https://www.mvideo.ru/products/igra-nintendo-switch-new-super-mario-bros-u-deluxe-40070863",
+            "image": "https://img.mvideo.ru/Pdb/40070863b.jpg",
+            "archived": 1,
         },
         {
             "name": 'Настольная игра «Покорение Марса»',
