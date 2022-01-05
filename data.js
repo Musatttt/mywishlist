@@ -65,13 +65,6 @@ let data = {
             "image": "https://hobbygames.cdnvideo.ru/image/cache/hobbygames_beta/data/HobbyWorld/Nemesis/HG/Nemesis_01-1024x1024-wm.jpg",
         },
         {
-            "name": "Dungeons & Dragons. Стартовый набор",
-            "price": 2500,
-            "tags": ["настолки"],
-            "url": "https://hobbygames.ru/dungeons-and-dragons-startovij-nabor",
-            "image": "https://hobbygames.cdnvideo.ru/image/cache/hobbygames_beta/data/HobbyWorld/DungeonsAndDragons/DnD_starter-set_box_3D-roznica-1024x1024-wm.jpg",
-        },
-        {
             "name": "Hacker gift",
             "price": 20,
             "currency": "$",
