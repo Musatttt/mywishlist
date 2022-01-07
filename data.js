@@ -30,13 +30,6 @@ let data = {
             "image": "https://img.mvideo.ru/Big/30059215bb.jpg",
         },
         {
-            "name": "Комикс 'Собакистан'",
-            "price": 700,
-            "tags": ["комиксы"],
-            "url": "https://www.chookandgeek.ru/product/sobakistan-tvyordyy-pereplyot",
-            "image": "https://static-sl.insales.ru/images/products/1/6085/434231237/large_1.jpg",
-        },
-        {
             "name": "Настольная игра 'Покорение марса: Колонии'",
             "price": 2150,
             "tags": ["настолки"],
