@@ -2,7 +2,7 @@ let data = {
     "config": {
         "image_default": "https://s3.amazonaws.com/gt7sp-prod/decal/20/65/90/4684386837524906520_1.png",
         "currency_default": "руб",
-        "description": "Для бронирования обращаться к <a href=\"tg://resolve?domain=FireKriS\">Крис</a>",
+        "description": "Для бронирования обращаться к <a href=\"tg://resolve?domain=musat_t\">Mus</a>",
         "show_archived": 1,
     },
     "items": [
