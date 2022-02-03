@@ -12,7 +12,7 @@ let data = {
             "currency": "(деревянных)",
             "image": "https://a.d-cd.net/eb560aas-960.jpg",
             "tags": ["машина"],
-            "url": "tg://resolve?domain=musat_t\/",
+            "url": "https://auto.ru/cars/used/sale/bmw/3er/1103282563-00d8f5cb//",
             "multi": 1,
         },
         {
