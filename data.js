@@ -2,17 +2,17 @@ let data = {
     "config": {
         "image_default": "https://s3.amazonaws.com/gt7sp-prod/decal/20/65/90/4684386837524906520_1.png",
         "currency_default": "руб",
-        "description": "Для бронирования обращаться к <a href=\"tg://resolve?domain=musat_t\">Mus</a>",
+        "description": "Для бронирования обращаться к <a href=\"tg://resolve?domain=musat_t\">Мусатику</a>",
         "show_archived": 1,
     },
     "items": [
         {
-            "name": "Сертификат от Валеры",
-            "price": "5к to infinity and beyond",
-            "currency": "(руб)",
+            "name": "Бэнвэ",
+            "price": "1500000",
+            "currency": "(деревянных)",
             "image": "tattoo-cert.jpg",
-            "tags": ["тату"],
-            "url": "https://www.instagram.com/valera_fedya/",
+            "tags": ["машина"],
+            "url": "tg://resolve?domain=musat_t\/",
             "multi": 1,
         },
         {
