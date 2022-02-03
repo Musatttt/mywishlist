@@ -10,7 +10,7 @@ let data = {
             "name": "Бэнвэ",
             "price": "1500000",
             "currency": "(деревянных)",
-            "image": "tattoo-cert.jpg",
+            "image": "https://a.d-cd.net/eb560aas-960.jpg",
             "tags": ["машина"],
             "url": "tg://resolve?domain=musat_t\/",
             "multi": 1,
