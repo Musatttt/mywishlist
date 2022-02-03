@@ -55,11 +55,12 @@ let data = {
             "description": "Размер M",
         },
         {
-            "name": "Виски Oban malt 14 years old",
-            "price": 6500,
-            "tags": ["алкоголь"],
-            "url": "https://winestyle.ru/products/Oban-malt-14-years-old-with-box.html",
-            "image": "https://skygarden.azureedge.net/media/images/products/2019/02/product_image_66b99a62-658d-4018-a8ea-998a174b0231.jpg",
+            "name": "HONOR MagicWatch 2 46 мм",
+            "price": 10500,
+            "currency": "(деревянных)",
+            "tags": ["техника"],
+            "url": "https://www.honor.ru/shop/product/honor-watch-magic-2-46mm",
+            "image": "https://avatars.mds.yandex.net/get-mpic/5220693/img_id1267838893604344730.jpeg/orig",
             "archived": 1,
         },
     ]
