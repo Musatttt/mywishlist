@@ -39,14 +39,14 @@ let data = {
             "url": "https://www.svyaznoy.ru/catalog/accessories/10613/5818145",
             "image": "https://cdn.svyaznoy.ru/upload/iblock/927/osmo%20mobile%204.jpg/resize/870x725/hq/",
         },
-        {
-            "name": "HONOR MagicWatch 2 46 мм",
-            "price": 10500,
-            "currency": "₽",
-            "tags": ["техника"],
-            "url": "https://www.honor.ru/shop/product/honor-watch-magic-2-46mm",
-            "image": "https://avatars.mds.yandex.net/get-mpic/5220693/img_id1267838893604344730.jpeg/orig",
-            "archived": 1,
-        },
+      //  {
+      //     "name": "HONOR MagicWatch 2 46 мм",
+      //      "price": 10500,
+      //      "currency": "₽",
+      //      "tags": ["техника"],
+      //      "url": "https://www.honor.ru/shop/product/honor-watch-magic-2-46mm",
+      //      "image": "https://avatars.mds.yandex.net/get-mpic/5220693/img_id1267838893604344730.jpeg/orig",
+      //      "archived": 1,
+      //  },
     ]
 }
