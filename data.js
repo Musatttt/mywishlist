@@ -40,7 +40,7 @@ let data = {
             "image": "https://cdn.svyaznoy.ru/upload/iblock/927/osmo%20mobile%204.jpg/resize/870x725/hq/",
         },
          {
-            "name": "Игристое вино Asti "Martini"",
+            "name": "Игристое вино Asti Martini",
             "price": 1000,
             "currency": "₽",
             "tags": ["Вина"],
