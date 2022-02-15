@@ -39,6 +39,14 @@ let data = {
             "url": "https://www.svyaznoy.ru/catalog/accessories/10613/5818145",
             "image": "https://cdn.svyaznoy.ru/upload/iblock/927/osmo%20mobile%204.jpg/resize/870x725/hq/",
         },
+         {
+            "name": "Игристое вино Asti "Martini"",
+            "price": 1000,
+            "currency": "₽",
+            "tags": ["Вина"],
+            "url": "https://winestyle.ru/products/Asti-Martini-750.html",
+            "image": "https://s.wine.style/images_gen/260/2603/0_0_prod_desktop.jpg",
+        },
       //  {
       //     "name": "HONOR MagicWatch 2 46 мм",
       //      "price": 10500,
