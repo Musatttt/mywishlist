@@ -47,14 +47,5 @@ let data = {
             "url": "https://winestyle.ru/products/Asti-Martini-750.html",
             "image": "https://s.wine.style/images_gen/260/2603/0_0_prod_desktop.jpg",
         },
-      //  {
-      //     "name": "HONOR MagicWatch 2 46 мм",
-      //      "price": 10500,
-      //      "currency": "₽",
-      //      "tags": ["техника"],
-      //      "url": "https://www.honor.ru/shop/product/honor-watch-magic-2-46mm",
-      //      "image": "https://avatars.mds.yandex.net/get-mpic/5220693/img_id1267838893604344730.jpeg/orig",
-      //      "archived": 1,
-      //  },
     ]
 }
