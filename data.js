@@ -30,6 +30,7 @@ let data = {
             "tags": ["техника"],
             "url": "https://makita.vseinstrumenti.ru/rashodnie_materialy/instrument/dlya_gaykovertov_vintovertov_i_shurupovertov/nasadki/nabory_bit/makita_nabor_bit_37_sht_b-28606-10/",
             "image": "https://cdn.vseinstrumenti.ru/images/goods/rashodnie-materialy/instrument/765125/560x504/51447978.jpg",
+            "archived": 1,
         },
         {
             "name": "Наручные часы Iconic Link Emerald",
@@ -54,6 +55,7 @@ let data = {
             "tags": ["Вина"],
             "url": "https://winestyle.ru/products/Asti-Martini-750.html",
             "image": "https://s.wine.style/images_gen/260/2603/0_0_prod_desktop.jpg",
+            "archived": 1,
         },
     ]
 }
