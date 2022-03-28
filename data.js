@@ -31,6 +31,14 @@ let data = {
             "url": "https://makita.vseinstrumenti.ru/rashodnie_materialy/instrument/dlya_gaykovertov_vintovertov_i_shurupovertov/nasadki/nabory_bit/makita_nabor_bit_37_sht_b-28606-10/",
             "image": "https://cdn.vseinstrumenti.ru/images/goods/rashodnie-materialy/instrument/765125/560x504/51447978.jpg",
         },
+        {
+            "name": "Наручные часы Iconic Link Emerald",
+            "price": 19390,
+            "currency": "₽",
+            "tags": ["часы"],
+            "url": "https://brandshop.ru/goods/294750/dw00100419/",
+            "image": "https://img.brandshop.ru/cache/products/d/dw00100419-0_552x552.jpg",
+        },
          {
             "name": "Трёхосевой стедикам DJI Osmo Mobile 4 SE",
             "price": 9990,
